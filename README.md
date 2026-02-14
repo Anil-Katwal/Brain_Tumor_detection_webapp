@@ -11,18 +11,12 @@ This repository contains a web-based deep learning application that classifies b
 
 The model is trained using Convolutional Neural Networks (CNNs) and deployed via Streamlit to provide a fast and intuitive user interface for medical image classification.
 # Features
-✅ Upload MRI brain scans and receive instant tumor predictions
-
-✅ Streamlit-powered web interface (modern and lightweight)
-
-✅ Model trained with TensorFlow/Keras
-
-
-✅ Detects presence/absence and type of brain tumor
-
-✅ Clean and modular codebase
-
-✅ Uses Git LFS to manage large ML model files
+Upload MRI brain scans and receive instant tumor predictions
+Streamlit-powered web interface (modern and lightweight)
+Model trained with TensorFlow/Keras
+Detects presence/absence and type of brain tumor
+Clean and modular codebase
+Uses Git LFS to manage large ML model files
 
 # Demo Screenshot
 <img width="703" alt="Screenshot 2025-06-13 at 3 57 30 PM" src="https://github.com/user-attachments/assets/e143120d-cbec-40cc-9553-ec341a4eef99" />
